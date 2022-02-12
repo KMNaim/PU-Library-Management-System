@@ -1,0 +1,77 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.Register-now{
+
+  width: 330px;
+  height: 550p;
+  padding: 30px;
+  border: 2px solid #34495e;
+  border-radius: 10px;
+  outline: none;
+  background: rgb(225, 240, 255);
+}
+
+form h2{
+
+  color: #ecf0f1;
+
+}
+.input-style{
+  margin-top: 0px;
+
+}
+.input-style input{
+  width: 98%;
+
+  padding: 3px;
+  border: 2px solid #16a085;
+  border-radius: 5px;
+  color: #000000;
+  outline: none;
+  height: 15px;
+  margin-bottom: 10px;
+}
+
+.input-style label{
+  color: #ecf0f1;
+  margin-bottom: 4px;
+  display: block;
+  font-size: 15px;
+  cursor: pointer;
+  padding: 1px;
+}
+
+.gender p{
+  color: #000000;
+  margin-top: 4px;
+}
+
+.option{
+
+  margin-top: 6px;
+
+}
+.option label{
+  color: #000000;
+  cursor: pointer;
+
+}
+.register-page input{
+  width: 100%;
+  margin-top: 10px;
+  padding: 8px;
+  background: linear-gradient(130deg, #1abc9c, #16a085);
+  outline: none;
+  border-radius: 5px;
+  color: #000000;
+  cursor: pointer;
+  border: none;
+
+}
+.register-page input:hover{
+  background: linear-gradient(-130deg, #1abc9c, #16a085);
+}
